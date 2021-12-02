@@ -1,0 +1,101 @@
+body{
+  background-image:url('b3.jpg');
+  background-attachment: fixed;
+  background-repeat:no-repeat; 
+  background-size: 100%;
+  
+   
+}
+.navbar-nav{
+
+    position: relative;
+    margin-left: 60%;
+}
+.navbar-nav a{
+    font-weight: 1000;
+    opacity: 100%;
+    color:black;
+}
+.navbar-nav a:hover{
+    color: rgba(192, 205, 211, 0.856);
+    background-color: rgba(221, 231, 230, 0.123);
+    border-radius: 5px 5px;
+    transition: ease-in-out;
+    animation-timing-function: ease-in-out;
+}
+.intro{
+    text-align: center;
+    font-weight: 700;
+    color: white;
+    font-size: 75px;
+    
+    font-family:  Helvetica, sans-serif;
+}
+.intro1{
+    text-align: center;
+    font-weight: 500;
+    color: white;
+    
+    
+    font-family:  Helvetica, sans-serif;
+}
+.s1{
+    text-align: center;
+    color:#262626;
+    background-color: white;
+}
+.services{
+    text-align: center;
+    color:#262626;
+    background-color: white;
+}
+.p1{
+    text-align: center;
+    color:grey;
+    background-color: white;
+    padding: 10px;
+    margin: 15px;
+
+}
+.s2{
+    text-align: center;
+    color:grey;
+    background-color: white;
+    padding: 10px;
+    margin: 15px;
+    display: inline-flex;
+    margin: 20px 5px 20px 20px;
+    padding: 10px;
+
+}
+.s2 h4{
+    color: #262626;
+    font-family: Helvetica, sans-serif;
+    font-weight: 700;
+}
+.about{
+    background-image:url('b1.jpg');
+    background-attachment: fixed;
+    background-repeat:no-repeat; 
+    background-size: 100%;
+    
+     
+  }
+  .about h4{
+    color: white;
+    font-family: Helvetica, sans-serif;
+    font-weight: 700;
+    margin: 5px;
+  }
+  .about p{
+    color: white;
+    font-family: Helvetica, sans-serif;
+    font-weight: 500;
+  }
+  .about h3{
+    color: white;
+    font-family: Helvetica, sans-serif;
+    font-weight: 700;
+    margin: 5px;
+  }
+
